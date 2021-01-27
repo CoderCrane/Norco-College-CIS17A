@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Employee.cpp
+  Lab3.cpp
+  ProductionWorker.cpp
+  ShiftSupervisor.cpp
+  TeamLeader.cpp
+  Generating Code...
+C:\Users\rands\Documents\River's Schoolwork\CIS-17A\Lab3\Lab3\Lab3\Lab3.cpp(23,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab3.vcxproj -> C:\Users\rands\Documents\River's Schoolwork\CIS-17A\Lab3\Lab3\Debug\Lab3.exe
