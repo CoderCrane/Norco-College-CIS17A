@@ -1,0 +1,83 @@
+﻿  DayOfYear.cpp
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(5): error C2653: 'DayOfYear': is not a class or namespace name
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(6): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(7): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(7): error C2146: syntax error: missing ';' before identifier 'janurary'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(7): error C3861: 'janurary': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(8): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(8): error C2146: syntax error: missing ';' before identifier 'feb'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(8): error C3861: 'feb': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(9): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(9): error C2146: syntax error: missing ';' before identifier 'march'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(9): error C3861: 'march': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(10): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(10): error C2146: syntax error: missing ';' before identifier 'apr'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(10): error C3861: 'apr': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(11): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(11): error C2146: syntax error: missing ';' before identifier 'may'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(11): error C3861: 'may': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(12): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(12): error C2146: syntax error: missing ';' before identifier 'jun'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(12): error C3861: 'jun': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(13): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(13): error C2146: syntax error: missing ';' before identifier 'july'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(13): error C3861: 'july': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(14): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(14): error C2146: syntax error: missing ';' before identifier 'aug'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(14): error C3861: 'aug': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(15): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(15): error C2146: syntax error: missing ';' before identifier 'sep'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(15): error C3861: 'sep': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(16): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(16): error C2146: syntax error: missing ';' before identifier 'oct'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(16): error C3861: 'oct': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(17): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(17): error C2146: syntax error: missing ';' before identifier 'nov'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(17): error C3861: 'nov': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(18): error C2065: 'Month': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(18): error C2146: syntax error: missing ';' before identifier 'dec'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(18): error C3861: 'dec': identifier not found
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(19): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(19): error C2065: 'janurary': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(20): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(20): error C2065: 'feb': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(21): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(21): error C2065: 'march': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(22): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(22): error C2065: 'apr': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(23): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(23): error C2065: 'may': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(24): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(24): error C2065: 'jun': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(25): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(25): error C2065: 'july': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(26): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(26): error C2065: 'aug': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(27): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(27): error C2065: 'sep': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(28): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(28): error C2065: 'oct': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(29): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(29): error C2065: 'nov': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(30): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(30): error C2065: 'dec': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(31): warning C4508: 'DayOfYear': function should return a value; 'void' return type assumed
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(33): error C2039: 'string': is not a member of 'std'
+  c:\users\norco college\source\repos\lab1part1\lab1part1\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(33): error C2510: 'DayOfYear': left of '::' must be a class/struct/union
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(33): error C2146: syntax error: missing ';' before identifier 'print'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(33): error C2143: syntax error: missing ';' before '{'
+c:\users\norco college\source\repos\lab1part1\lab1part1\dayofyear.cpp(33): error C2447: '{': missing function header (old-style formal list?)
+  Month.cpp
+c:\users\norco college\source\repos\lab1part1\lab1part1\month.cpp(4): error C2653: 'Month': is not a class or namespace name
+c:\users\norco college\source\repos\lab1part1\lab1part1\month.cpp(4): error C2039: 'string': is not a member of 'std'
+  c:\users\norco college\source\repos\lab1part1\lab1part1\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\norco college\source\repos\lab1part1\lab1part1\month.cpp(4): error C2065: 'string': undeclared identifier
+c:\users\norco college\source\repos\lab1part1\lab1part1\month.cpp(4): error C2146: syntax error: missing ')' before identifier 'name'
+c:\users\norco college\source\repos\lab1part1\lab1part1\month.cpp(4): error C2143: syntax error: missing ';' before '{'
+c:\users\norco college\source\repos\lab1part1\lab1part1\month.cpp(4): error C2447: '{': missing function header (old-style formal list?)
+c:\users\norco college\source\repos\lab1part1\lab1part1\month.cpp(9): error C2653: 'Month': is not a class or namespace name
+c:\users\norco college\source\repos\lab1part1\lab1part1\month.cpp(10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+  Generating Code...
